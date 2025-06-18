@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78589a4d2d356bf44ac7f82e77ab7907
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/Materials/BaseballShader.mat
+  uploadId: 540083

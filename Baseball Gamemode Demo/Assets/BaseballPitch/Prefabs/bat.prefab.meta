@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6dc4ee0a9971c8e4e9b7efc2dbd18231
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/Prefabs/bat.prefab
+  uploadId: 540083

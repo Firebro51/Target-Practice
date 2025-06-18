@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a877a180867370449aff64dd7d5e298
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/Materials/OuterGrassShader.mat
+  uploadId: 540083

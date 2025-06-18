@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d36860dea9984db418bc9a0795dddb81
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237971
+  packageName: Baseball Field
+  packageVersion: 1.0
+  assetPath: Assets/BaseballPitch/Materials/InnerGrassShader.mat
+  uploadId: 540083
